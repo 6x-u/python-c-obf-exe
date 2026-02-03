@@ -19,3 +19,11 @@ Adds an icon to the final EXE
 Protection against decompilation
 
 And other organized features
+
+tool: paht\test.py
+tool: C Compiler
+tool: obf
+tool: exe
+tool: save exe 
+
+dev by mero @QP4RM
